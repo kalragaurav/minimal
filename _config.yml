@@ -1,6 +1,18 @@
-title: Minimal theme
+
+title: <p align="center"> Gaurav Kalra </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/gaurav-kalra-a648697/">LinkedIn</a> |
+  <a href="https://github.com/kalragaurav">GitHub</a>
+  
+  <br>   
+  I'm learning Data Science, Big Data, Machine learning & NLP related stuff.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
